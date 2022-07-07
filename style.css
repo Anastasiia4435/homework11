@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    font-size: 30px;
+}
+.blue {
+    width: 350px;
+    height: 480px;
+    background-color: rgb(73, 73, 165);
+    border-radius: 25px;
+    font-family: 'Gantari', sans-serif;
+}
+
+.sea {
+    padding-top: 30px;
+}
+
+a {
+    display: block;
+    width: 310px;
+    height: 60px;
+    text-decoration: none;
+    padding-top: 15px;
+    margin-left: 17px;
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 15px;
+    transition: all 0.5s ease;
+}
+
+a:hover {
+    background-color: transparent;
+    color:black
+
+}
